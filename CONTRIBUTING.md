@@ -1,13 +1,10 @@
-# Contributing Guidelines
+# Contributing to Hello-World
 
-Thank you for considering contributing to this project!
+Thank you for your interest in contributing!
 
-## How to Contribute
-
-1. Fork the repository
-2. Create a new branch for your change
-3. Make your changes
-4. Ensure all tests pass
-5. Submit a pull request
-
-Please ensure your code follows the coding standards and include relevant tests and documentation. We appreciate your effort!
+## Guidelines
+- Fork the repository and create your branch from 'feature-update'.
+- Ensure your code follows the style conventions of the project.
+- Add tests for any new functionality.
+- Submit a pull request with a clear description of your changes.
+- Be respectful and constructive in code reviews and discussions.
